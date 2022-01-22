@@ -6,4 +6,5 @@
 	- [[[[Books]]/Why Information Grows]]
 	- [[[[Books]]/Reinventing Discovery]]
 	- [[[[Books]]/Weaving the Web]]
-	-
+	- [[[[Article]]/As We May Think]] by [[Vannevar Bush]]
+	- [[[[Article]]/How can we develop transformative tools for thought?]] by [[Andy Matuschak]] and
