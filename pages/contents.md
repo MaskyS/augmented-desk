@@ -1,2 +1,3 @@
 - These are my working notes.
 	- I want to see how I can work in public.
+	- I'm mostly going to be writing about the nature of information,
