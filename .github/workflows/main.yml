@@ -4,8 +4,16 @@ name: CI
 
 # Controls when the workflow will run
 on:
+<<<<<<< HEAD
   push:
     branches: [main]
+=======
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+>>>>>>> 74e225d26a0ae3cf45674260546581114ca93c5e
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -21,6 +29,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+<<<<<<< HEAD
+=======
+      
+>>>>>>> 74e225d26a0ae3cf45674260546581114ca93c5e
       - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@main
       - name: add a nojekyll file
