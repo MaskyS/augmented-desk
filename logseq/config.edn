@@ -162,7 +162,7 @@
  :editor/logical-outdenting? true
  :journal/page-title-format "MMMM do, yyyy"
  :publishing/all-pages-public? true
- :favorites []
+ :favorites ["Contents"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
