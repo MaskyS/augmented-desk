@@ -14,5 +14,8 @@
 	- [[[[Article]]/How can we develop transformative tools for thought?]]
 		- by [[Andy Matuschak]] and [[Michael Nielsen]]
 		- https://numinous.productions/ttft/
+	- [[[[Article]]/The Universal Design Pattern]]
+		- by [[Steve Yegge]]
+		- https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html
 	-
 	-
