@@ -24,16 +24,16 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-	with:
-	  fetch-depth: 0      
+        with:
+          fetch-depth: 0      
       - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@main
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: generate-sitemap
         uses: cicirello/generate-sitemap@v1.8.1
-	with:
-	  base-url-path: https://maskys.github.io/augmented-desk
+        with:
+          base-url-path: https://maskys.github.io/augmented-desk
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
