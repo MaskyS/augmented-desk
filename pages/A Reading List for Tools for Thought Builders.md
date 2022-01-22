@@ -17,5 +17,8 @@
 	- [[[[Article]]/The Universal Design Pattern]]
 		- by [[Steve Yegge]]
 		- https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html
+	- [[[[Books]]/Augmenting the Human Intellect]]
+		- by [[Doug Engelbart]]
+	- [[[[Books]]/Trees, Maps, and Theorems]]
 	-
 	-
