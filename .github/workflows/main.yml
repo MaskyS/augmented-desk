@@ -33,7 +33,7 @@ jobs:
       - name: generate-sitemap
         uses: cicirello/generate-sitemap@v1.8.1
         with:
-          base-url-path: https://maskys.github.io/augmented-desk
+          base-url-path: https://maskys.github.io/augmented-desk/
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
