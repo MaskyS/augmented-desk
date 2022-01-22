@@ -1,10 +1,18 @@
 - These are in no particular order..
-	- [[Chatting with Glue]] by [[Max Krieger]]
+	- [[Chatting with Glue]]
+		- by [[Max Krieger]]
 	- [[[[Books]]/Unflattening]]
-	- [[[[Books]]/Magic Ink]] by [[Bret Victor]]
+	- [[[[Books]]/Magic Ink]]
+		- by [[Bret Victor]]
 	- [[[[Books]]/Linked: The New Science of Networks]]
 	- [[[[Books]]/Why Information Grows]]
 	- [[[[Books]]/Reinventing Discovery]]
+		- by [[Michael Nielsen]]
 	- [[[[Books]]/Weaving the Web]]
-	- [[[[Article]]/As We May Think]] by [[Vannevar Bush]]
-	- [[[[Article]]/How can we develop transformative tools for thought?]] by [[Andy Matuschak]] and
+	- [[[[Article]]/As We May Think]]
+		- by [[Vannevar Bush]]
+	- [[[[Article]]/How can we develop transformative tools for thought?]]
+		- by [[Andy Matuschak]] and [[Michael Nielsen]]
+		- https://numinous.productions/ttft/
+	-
+	-
