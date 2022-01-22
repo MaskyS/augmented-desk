@@ -3,4 +3,7 @@
 	- [[[[Books]]/Unflattening]]
 	- [[[[Books]]/Magic Ink]] by [[Bret Victor]]
 	- [[[[Books]]/Linked: The New Science of Networks]]
+	- [[[[Books]]/Why Information Grows]]
+	- [[[[Books]]/Reinventing Discovery]]
+	- [[[[Books]]/Weaving the Web]]
 	-
