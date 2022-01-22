@@ -1,4 +1,4 @@
-- These are in no particular order..
+- These are the resources I've personally read and would recommend.
 	- [[Chatting with Glue]]
 		- by [[Max Krieger]]
 	- [[[[Books]]/Unflattening]]
@@ -14,11 +14,11 @@
 	- [[[[Article]]/How can we develop transformative tools for thought?]]
 		- by [[Andy Matuschak]] and [[Michael Nielsen]]
 		- https://numinous.productions/ttft/
+	- [[[[Books]]/Augmenting the Human Intellect]]
+		- by [[Doug Engelbart]]
 	- [[[[Article]]/The Universal Design Pattern]]
 		- by [[Steve Yegge]]
 		- https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html
-	- [[[[Books]]/Augmenting the Human Intellect]]
-		- by [[Doug Engelbart]]
 	- [[[[Books]]/Trees, Maps, and Theorems]]
-	-
+	- A paper I can't find, on knowledge representation and information hierarchies
 	-
