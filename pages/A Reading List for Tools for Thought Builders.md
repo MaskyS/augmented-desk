@@ -1,4 +1,4 @@
-- These are the resources I've personally read and would recommend.
+- These are the resources I've personally read and would recommend, in no particular order.
 	- [[Chatting with Glue]]
 		- by [[Max Krieger]]
 	- [[[[Books]]/Unflattening]]
