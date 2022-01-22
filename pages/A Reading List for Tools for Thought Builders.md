@@ -1,2 +1,6 @@
 - These are in no particular order..
+	- [[Chatting with Glue]] by [[Max Krieger]]
+	- [[[[Books]]/Unflattening]]
+	- [[[[Books]]/Magic Ink]] by [[Bret Victor]]
+	- [[[[Books]]/Linked: The New Science of Networks]]
 	-
