@@ -20,6 +20,9 @@
 		- by [[Steve Yegge]]
 		- https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html
 	- [[[[Books]]/Trees, Maps, and Theorems]]
+	- [[[[Study]]/Organising knowledge with multi-level content]]
+		- https://www.francismiller.com/organising_knowledge_paper.pdf
+		- by [[Francis Miller]]
 	- A paper I can't find, on knowledge representation and information hierarchies
 	-
 - These are books I want to read and are likely connected.
