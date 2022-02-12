@@ -1,2 +1,3 @@
 - https://twitter.com/gershbrain/status/1490696366405914626
-- https://twitter.com/maskys_/status/1492203329551691778?s=20&t=IZxm3ImiyIjoDRz2f2kbew
+- https://twitter.com/maskys_/status/1492203329551691778
+-
