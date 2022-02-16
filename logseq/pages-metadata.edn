@@ -1,157 +1,172 @@
 [{:block/name "[[article]]/as we may think",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[article]]/how can we ",
-  :block/created-at 1643905631598,
-  :block/updated-at 1643905631598}
+  :block/created-at 1644987684445,
+  :block/updated-at 1644987684445}
  {:block/name "[[article]]/how can we deve",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[article]]/how can we develop ",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "[[article]]/how can we develop tra",
-  :block/created-at 1643905631597,
-  :block/updated-at 1643905631597}
+  :block/created-at 1644987684441,
+  :block/updated-at 1644987684441}
  {:block/name "[[article]]/how can we develop tran",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "[[article]]/how can we develop transformative ",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name
   "[[article]]/how can we develop transformative tools for ",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name
   "[[article]]/how can we develop transformative tools for thought",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name
   "[[article]]/how can we develop transformative tools for thought_",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631576}
+  :block/created-at 1644987684417,
+  :block/updated-at 1644987684417}
  {:block/name "[[article]]/the universal ",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "[[article]]/the universal design pattern",
   :block/created-at 1642845441418,
   :block/updated-at 1642845442136}
  {:block/name "[[book]]/unflattening",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "[[books]]/augmenting the human intellect",
   :block/created-at 1642845496625,
   :block/updated-at 1642845502575}
  {:block/name "[[books]]/linked_ the new ",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[books]]/linked_ the new science of networks",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "[[books]]/magic ink",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[books]]/reinventing discovery",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "[[books]]/reinventing discovery ",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631577}
+  :block/created-at 1644987684417,
+  :block/updated-at 1644987684417}
  {:block/name "[[books]]/sketching user experiences",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[books]]/trees, maps, and theorems",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[books]]/understanding comics",
-  :block/created-at 1643905631567,
-  :block/updated-at 1643905631567}
+  :block/created-at 1644987684401,
+  :block/updated-at 1644987684401}
  {:block/name "[[books]]/unflattening",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684450,
+  :block/updated-at 1644987684450}
  {:block/name "[[books]]/weaving the web",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[books]]/why ",
-  :block/created-at 1643905631598,
-  :block/updated-at 1643905631598}
+  :block/created-at 1644987684445,
+  :block/updated-at 1644987684445}
  {:block/name "[[books]]/why information grows",
-  :block/created-at 1643905631567,
-  :block/updated-at 1643905631567}
+  :block/created-at 1644987684401,
+  :block/updated-at 1644987684401}
  {:block/name
   "[[study]]/organising knowledge with multi-level content",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "[[videos]]/design, compositio",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "[[videos]]/design, composition",
-  :block/created-at 1643905631598,
-  :block/updated-at 1643905631598}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "[[videos]]/design, composition, and performance",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "a",
-  :block/created-at 1643905631567,
-  :block/updated-at 1643905631567}
+  :block/created-at 1644987684401,
+  :block/updated-at 1644987684401}
  {:block/name "a reading list for tools for thought builders",
   :block/created-at 1642845016796,
   :block/updated-at 1643896720408}
  {:block/name "adhd",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "andy matuschak",
-  :block/created-at 1643905631598,
-  :block/updated-at 1643905631598}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "article",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631576}
- {:block/name "ask why/how they did it, but never trust the answer",
-  :block/created-at 1643304225757,
-  :block/updated-at 1643304225757}
+  :block/created-at 1644987684416,
+  :block/updated-at 1644987684416}
  {:block/name "b",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "biohacking",
-  :block/created-at 1643905631598,
-  :block/updated-at 1643905631598}
+  :block/created-at 1644987684445,
+  :block/updated-at 1644987684445}
  {:block/name "books",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "bret victor",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "c",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "card",
-  :block/created-at 1643905631598,
-  :block/updated-at 1643905631598}
+  :block/created-at 1644987684445,
+  :block/updated-at 1644987684445}
  {:block/name "chatting with glue",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "contents",
   :block/created-at 1642842404922,
   :block/updated-at 1642845114742}
  {:block/name "daniel schmachtenberger",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "design",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "doing",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "done",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "doug engelbart",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684450,
+  :block/updated-at 1644987684450}
  {:block/name "favorites",
-  :block/created-at 1643905631597,
-  :block/updated-at 1643905631597}
+  :block/created-at 1644987684444,
+  :block/updated-at 1644987684444}
+ {:block/name "february 11th, 2022",
+  :block/created-at 1644537600000,
+  :block/updated-at 1644537600000}
+ {:block/name "february 12th, 2022",
+  :block/created-at 1644624000000,
+  :block/updated-at 1644624000000}
+ {:block/name "february 13th, 2022",
+  :block/created-at 1644710400000,
+  :block/updated-at 1644710400000}
+ {:block/name "february 14th, 2022",
+  :block/created-at 1644796800000,
+  :block/updated-at 1644796800000}
+ {:block/name "february 15th, 2022",
+  :block/created-at 1644883200000,
+  :block/updated-at 1644883200000}
+ {:block/name "february 16th, 2022",
+  :block/created-at 1644969600000,
+  :block/updated-at 1644969600000}
  {:block/name "february 1st, 2022",
   :block/created-at 1643673600000,
   :block/updated-at 1643673600000}
@@ -162,14 +177,14 @@
   :block/created-at 1643846400000,
   :block/updated-at 1643846400000}
  {:block/name "francis miller",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631576}
+  :block/created-at 1644987684417,
+  :block/updated-at 1644987684417}
  {:block/name "holy-omniscience",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "in-progress",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "january 22nd, 2022",
   :block/created-at 1642841382980,
   :block/updated-at 1642848371791}
@@ -201,71 +216,75 @@
   :block/created-at 1643587200000,
   :block/updated-at 1643587200000}
  {:block/name "jonathan blow",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "later",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "max krieger",
-  :block/created-at 1643905631564,
-  :block/updated-at 1643905631567}
+  :block/created-at 1644987684400,
+  :block/updated-at 1644987684401}
  {:block/name "maybe",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "michael nielsen",
-  :block/created-at 1643905631598,
-  :block/updated-at 1643905631598}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "nootropics",
-  :block/created-at 1643905631577,
-  :block/updated-at 1643905631577}
+  :block/created-at 1644987684417,
+  :block/updated-at 1644987684417}
  {:block/name "now",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "open questions",
-  :block/created-at 1643905631603,
-  :block/updated-at 1643905631603}
+  :block/created-at 1644987684453,
+  :block/updated-at 1644987684453}
  {:block/name "oscar wilde",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
+ {:block/name
+  "people tend to explain actions only at levels they're conscious of",
+  :block/created-at 1643304225757,
+  :block/updated-at 1644646875184}
  {:block/name "samo burja",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631576}
+  :block/created-at 1644987684416,
+  :block/updated-at 1644987684416}
  {:block/name "scott mccloud",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "steve yegge",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631576}
+  :block/created-at 1644987684416,
+  :block/updated-at 1644987684416}
  {:block/name "study",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631576}
+  :block/created-at 1644987684417,
+  :block/updated-at 1644987684417}
  {:block/name "tangent",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "the ethical brain",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "todo",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "tools for thought",
-  :block/created-at 1643905631567,
-  :block/updated-at 1643905631567}
+  :block/created-at 1644987684401,
+  :block/updated-at 1644987684401}
  {:block/name "v.s. ramachandran",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "vannevar bush",
-  :block/created-at 1643905631577,
-  :block/updated-at 1643905631577}
+  :block/created-at 1644987684417,
+  :block/updated-at 1644987684417}
  {:block/name "videos",
-  :block/created-at 1643905631601,
-  :block/updated-at 1643905631601}
+  :block/created-at 1644987684449,
+  :block/updated-at 1644987684449}
  {:block/name "wait",
-  :block/created-at 1643905631576,
-  :block/updated-at 1643905631576}
+  :block/created-at 1644987684416,
+  :block/updated-at 1644987684416}
  {:block/name "waiting",
-  :block/created-at 1643905631602,
-  :block/updated-at 1643905631602}
+  :block/created-at 1644987684451,
+  :block/updated-at 1644987684451}
  {:block/name "writing",
-  :block/created-at 1643905631598, 
-  :block/updated-at 1643905631598}]
+  :block/created-at 1644987684445, 
+  :block/updated-at 1644987684445}]
