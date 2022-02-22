@@ -12,6 +12,8 @@
 - What does the intersection of browsers and game engines look like?
 - What are some principles for creating [[scale-free]] [[UI]]?
 - Metadata matters. How can we make it scalable?
+	- How can we let people annotate anything and everything - and then share it?
+- [[consumption trails]]
 - [[Article/Meditations on Moloch]]
 - Preventing the Collapse of Civilization #[[Jonathan Blow]]
 	- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
