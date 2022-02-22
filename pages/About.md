@@ -1,0 +1,5 @@
+- Hi, I'm Kifah. I'm interested in complex systems and tools for thought, where I believe the solutions to our problems lie.
+- These are my working notes.
+	- I want to see how I can work in public.
+	- I'm mostly going to be writing about the nature of information, [[Tools for Thought]], programming.
+		- Might throw in some stuff about [[biohacking]] [[nootropics]] [[ADHD]] in the future.
