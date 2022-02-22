@@ -1,25 +1,27 @@
-- How do we overcome virality?
-- What do we need to create general-purpose [[multi-scale modeling]]?
-- How can we make explorable explanations scalable?
-- How can we prevent information overload?
-- How can we create an emergent internet?
-- How can we effectively leverage the wisdom of the crowds?
-- What do good user interfaces look like for creating your own feeds/curation engines?
-- Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?
-- What are the best resources on complex systems?
-- How can you do [[deliberate practice]] with [[software engineering]]?
-	- Are there classic works to study?
-- What does the intersection of browsers and game engines look like?
-- What are some principles for creating [[scale-free]] [[UI]]?
-- Metadata matters. How can we make it scalable?
-	- How can we let people annotate anything and everything - and then share it?
-- [[consumption trails]]
-- [[Article/Meditations on Moloch]] [🔗](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
-	- {{youtube https://www.youtube.com/watch?v=SeohwQls2GE}}
-- Preventing the Collapse of Civilization #[[Jonathan Blow]]
-	- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
-- The War on Sensemaking - [[Daniel Schmachtenberger]]
-	- {{youtube https://www.youtube.com/watch?v=7LqaotiGWjQ}}
-- Civilization: Instititutions, Knowledge and the Future [[Samo Burja]]
-	- {{youtube https://www.youtube.com/watch?v=OiNmTVThNEY}}
-- {{tweet https://twitter.com/danwwang/status/1484152159067426819?s=20}}
+- Questions
+	- How do we overcome virality?
+	- What do we need to create general-purpose [[multi-scale modeling]]?
+	- How can we make explorable explanations scalable?
+	- How can we prevent information overload?
+	- How can we create an emergent internet?
+	- How can we effectively leverage the wisdom of the crowds?
+	- What do good user interfaces look like for creating your own feeds/curation engines?
+	- Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?
+	- What are the best resources on complex systems?
+	- How can you do [[deliberate practice]] with [[software engineering]]?
+		- Are there classic works to study?
+	- What does the intersection of browsers and game engines look like?
+	- What are some principles for creating [[scale-free]] [[UI]]?
+	- Metadata matters. How can we make it scalable?
+		- How can we let people annotate anything and everything - and then share it?
+	- [[consumption trails]]
+- Problems
+	- [[Article/Meditations on Moloch]] [🔗](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+		- {{youtube https://www.youtube.com/watch?v=SeohwQls2GE}}
+	- Preventing the Collapse of Civilization #[[Jonathan Blow]]
+		- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
+	- The War on Sensemaking - [[Daniel Schmachtenberger]]
+		- {{youtube https://www.youtube.com/watch?v=7LqaotiGWjQ}}
+	- Civilization: Instititutions, Knowledge and the Future [[Samo Burja]]
+		- {{youtube https://www.youtube.com/watch?v=OiNmTVThNEY}}
+	- {{tweet https://twitter.com/danwwang/status/1484152159067426819?s=20}}
