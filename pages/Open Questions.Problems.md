@@ -1,0 +1,6 @@
+- How do we overcome virality?
+- What do we need to create general-purpose [[multi-scale modeling]]?
+- How can we make explorable explanations scalable?
+- How can we prevent information overload?
+- How can we effectively leverage the wisdom of the crowds?
+- Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?

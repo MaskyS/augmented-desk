@@ -1,4 +1,0 @@
-- How do we overcome virality?
-- What do we need to create general-purpose [[multi-scale modeling]]?
-- How can we make explorable explanations scalable?
--
