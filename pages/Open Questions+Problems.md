@@ -10,7 +10,7 @@
 - How can you do [[deliberate practice]] with [[software engineering]]?
 	- Are there classic works to study?
 - What does the intersection of browsers and game engines look like?
--
+- [[Article/Meditations on Moloch]]
 - Preventing the Collapse of Civilization #[[Jonathan Blow]]
 	- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
 - The War on Sensemaking - [[Daniel Schmachtenberger]]
