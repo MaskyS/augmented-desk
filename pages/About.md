@@ -1,7 +1,8 @@
 - About Me
 	- Hi, I'm Kifah. I'm interested in the intersection of complex systems and tools for thought. I believe they will help with most of our current problems.
-- Working in public
-	- I've prioritized being legible before, and it ultimately led to my notes becoming inflexible. My aim here is to actually use this website to make progress on my problems- in public.
+- About these notes
+	- My previous attempt at a second brain was mostly unidirectional - I set it up to share what I'd found - and the focus on legibility made my notes inflexible. I'm not motivated by sharing what I already know.
+	- My aim here is to actually use this website to make progress on my problems- in public.
 	-
 	- I'm mostly going to be writing about the nature of information, [[Tools for Thought]], programming.
 		- Might throw in some stuff about [[biohacking]] [[nootropics]] [[ADHD]] in the future.
