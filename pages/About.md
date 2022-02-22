@@ -1,5 +1,7 @@
 - About Me
-	- Hi, I'm Kifah. I'm interested in the intersection of complex systems and tools for thought, where I believe the solutions to our problems lie.
-- About these notes
+	- Hi, I'm Kifah. I'm interested in the intersection of complex systems and tools for thought. I believe they will help with most of our current problems.
+- Working in public
+	- I've prioritized being legible before, and it ultimately led to my notes becoming inflexible. My aim here is to actually use this website to make progress on my problems- in public.
+	-
 	- I'm mostly going to be writing about the nature of information, [[Tools for Thought]], programming.
 		- Might throw in some stuff about [[biohacking]] [[nootropics]] [[ADHD]] in the future.
