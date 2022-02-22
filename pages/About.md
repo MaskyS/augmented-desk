@@ -1,7 +1,8 @@
 - About Me
-	- Hi, I'm Kifah. I'm researching the intersection of complex systems and tools for thought. I believe they will help with most of my/our current problems.
+	- Hi, I'm Kifah. I'm researching the intersection of complex systems and tools for thought. I believe they will help with most of my/our most pressing problems.
 - About these notes
 	- My aim here is to make this a public place I can actually think.
-		- I'm not optimizing for legibility, because the last time I tried that, it made my notes inflexible. And I found that writing about what I knew was less motivating than digging deeper into my problems.
+		- I'm not optimizing for legibility, because the last time I tried that, it made my notes inflexible.
+			- And I found that I was less motivated to write about what I already knew than digging deeper.
 - Some entry points....
 	-
