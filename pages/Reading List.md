@@ -1,4 +1,4 @@
-- These are the resources I've personally read and would recommend, in no particular order.
+- These are the (unordered) resources I've personally read and would recommend to people interested in tools for thought, complex systems,
 	- [[Chatting with Glue]]
 		- by [[Max Krieger]]
 	- [[Book/Unflattening]]
