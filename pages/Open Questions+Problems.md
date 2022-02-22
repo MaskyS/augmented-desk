@@ -8,14 +8,13 @@
 - Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?
 - What are the best resources on complex systems?
 - How can you do [[deliberate practice]] with [[software engineering]]?
-	- Are there
+	- Are there classic works to study?
+- What does the intersection of browsers and game engines look like?
+-
 - Preventing the Collapse of Civilization #[[Jonathan Blow]]
 	- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
 - The War on Sensemaking - [[Daniel Schmachtenberger]]
 	- {{youtube https://www.youtube.com/watch?v=7LqaotiGWjQ}}
 - Civilization: Instititutions, Knowledge and the Future [[Samo Burja]]
 	- {{youtube https://www.youtube.com/watch?v=OiNmTVThNEY}}
-- > Another decline of manufacturing process knowledge in America: Between 1990 and 2020, the time required to build a semiconductor fab increased by 38%, from 665 days to 918 days, while the total number of new fabs halved [🔗](https://t.co/WXxMY0NVDE)
-	- [Source](https://twitter.com/danwwang/status/1484152159067426819?s=20)
-	- ![image.png](../assets/image_1645540711739_0.png)
-	-
+- {{tweet https://twitter.com/danwwang/status/1484152159067426819?s=20}}
