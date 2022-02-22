@@ -13,5 +13,7 @@
 	- {{youtube https://www.youtube.com/watch?v=7LqaotiGWjQ}}
 - Civilization: Instititutions, Knowledge and the Future [[Samo Burja]]
 	- {{youtube https://www.youtube.com/watch?v=OiNmTVThNEY}}
-- > Another decline of manufacturing process knowledge in America: Between 1990 and 2020, the time required to build a semiconductor fab increased by 38%, from 665 days to 918 days, while the total number of new fabs halved
+- > Another decline of manufacturing process knowledge in America: Between 1990 and 2020, the time required to build a semiconductor fab increased by 38%, from 665 days to 918 days, while the total number of new fabs halved [🔗](https://t.co/WXxMY0NVDE)
+	- [Source](https://twitter.com/danwwang/status/1484152159067426819?s=20)
+	- ![image.png](../assets/image_1645540711739_0.png)
 	-
