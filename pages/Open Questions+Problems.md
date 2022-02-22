@@ -14,7 +14,7 @@
 - Metadata matters. How can we make it scalable?
 	- How can we let people annotate anything and everything - and then share it?
 - [[consumption trails]]
-- [[Article/Meditations on Moloch]]
+- [[Article/Meditations on Moloch]] [🔗](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 - Preventing the Collapse of Civilization #[[Jonathan Blow]]
 	- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
 - The War on Sensemaking - [[Daniel Schmachtenberger]]
