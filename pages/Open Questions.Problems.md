@@ -4,3 +4,4 @@
 - How can we prevent information overload?
 - How can we effectively leverage the wisdom of the crowds?
 - Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?
+-
