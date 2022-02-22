@@ -6,7 +6,6 @@
 - How can we effectively leverage the wisdom of the crowds?
 - What do good user interfaces look like for creating your own feeds/curation engines?
 - Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?
--
 - Preventing the Collapse of Civilization #[[Jonathan Blow]]
 	- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
 - The War on Sensemaking - [[Daniel Schmachtenberger]]
