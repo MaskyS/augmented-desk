@@ -4,5 +4,5 @@
 	- My aim here is to make this a public place I can actually think.
 		- I'm not optimizing for legibility, because the last time I tried that, it made my notes inflexible.
 			- And I found that I was less motivated to write about what I already knew than digging deeper.
-- Some entry points....
+- See the sidebar for some entry points...
 	-
