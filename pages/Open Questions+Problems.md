@@ -21,6 +21,7 @@
 	- What are the best resources on complex systems?
 	- How can you do [[deliberate practice]] with [[software engineering]]?
 		- Are there classic works to study?
+		- [[Andy Matuschak/Knowledge work rarely involves deliberate practice]] https://notes.andymatuschak.org/z5BMvN7tZr8wxZdfFHgjvV9Em5HzXPCboardR
 	- What does the intersection of browsers and game engines look like?
 	- What are some principles for creating [[scale-free]] [[UI]]?
 	- Metadata matters. How can we make it scalable?

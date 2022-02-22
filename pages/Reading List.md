@@ -24,6 +24,7 @@
 		- https://www.francismiller.com/organising_knowledge_paper.pdf
 		- by [[Francis Miller]]
 	- [[Book/Emergence]]
+	- [[Article/Why books don't work]] [[Andy Matuschak]] [🔗](https://andymatuschak.org/books/)
 	-
 - These are books I want to read and are likely connected.
 	- [[Book/Understanding Comics]] by [[Scott McCloud]]
