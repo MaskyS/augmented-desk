@@ -2,6 +2,12 @@
 - What do we need to create general-purpose [[multi-scale modeling]]?
 - How can we make explorable explanations scalable?
 - How can we prevent information overload?
+- How can we create an emergent internet?
 - How can we effectively leverage the wisdom of the crowds?
+- What do good user interfaces look like for creating your own feeds/curation engines?
 - Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?
 -
+- https://www.youtube.com/watch?v=ZSRHeXYDLko [[Daniel Schmachtenberger]]
+- https://www.youtube.com/watch?v=7LqaotiGWjQ [[Jonathan Blow]]
+- https://www.youtube.com/watch?v=OiNmTVThNEY [[Samo Burja]]
+- https://twitter.com/danwwang/status/1484152159067426819?s=20
