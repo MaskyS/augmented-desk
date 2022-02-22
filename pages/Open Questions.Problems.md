@@ -7,7 +7,9 @@
 - What do good user interfaces look like for creating your own feeds/curation engines?
 - Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?
 -
-- https://www.youtube.com/watch?v=ZSRHeXYDLko [[Daniel Schmachtenberger]]
-- https://www.youtube.com/watch?v=7LqaotiGWjQ [[Jonathan Blow]]
+- #[[Jonathan Blow]]
+- {{youtube https://www.youtube.com/watch?v=ZSRHeXYDLko}}
+- The War on Sensemaking - [[Daniel Schmachtenberger]]
+	- {{youtube https://www.youtube.com/watch?v=7LqaotiGWjQ}}
 - https://www.youtube.com/watch?v=OiNmTVThNEY [[Samo Burja]]
 - https://twitter.com/danwwang/status/1484152159067426819?s=20
