@@ -10,8 +10,11 @@
 	- {{tweet https://twitter.com/danwwang/status/1484152159067426819?s=20}}
 - Questions
 	- How do we overcome virality?
-	- How do we learn to see?
-	- What do we need to create general-purpose [[multi-scale modeling]]?
+		- E.g. lower dimensional ideas spreading faster than nuanced ones, lies vs truth, churn of amateurish resources vs slow accumulation of expert knowledge, polarizing news, etc
+	- How do we learn to see? I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
+		- Related
+	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
+		-
 	- How can we make explorable explanations scalable?
 	- How can we prevent information overload?
 	- How can we create an emergent internet?
@@ -27,6 +30,10 @@
 	- Metadata matters. How can we make it scalable?
 		- How can we let people annotate anything and everything - and then share it?
 	- How can I generate flexible meal plans based off several parameters (macro/micro-nutrients, price, cooking duration, difficulty level, hunger level, available ingredients...)?
-	- How can we create mediums that is infinitely fractal and continuous, where you can create explanations at any level of detail you want (similar to how you see). This would let you see the dependency trees of concepts, or smoothly zoom in and out in terms of detail while reading a book?
+	- How can we create mediums that is infinitely fractal and continuous, where you can create explanations at any level of detail you want (similar to how you see).
+		- This would let you see the dependency trees of concepts, or smoothly zoom in and out in terms of detail while reading/studying..
+	- Experience produces abstraction- this means that math notation makes it easier for experts to collaborate/communicate, but they make it harder for beginners to absorb mental models. How can we change this?
+		- See [[Bret Victor/Kill Math]]
+	- How can we facilitate dialectical synthesis? How can we make it easy to judge information on the internet according to our own metrics/epistemic theories of truth?
 	- How can we break down information so that you can easily
 	- [[consumption trails]]
