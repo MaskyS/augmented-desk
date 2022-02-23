@@ -26,4 +26,7 @@
 	- What are some principles for creating [[scale-free]] [[UI]]?
 	- Metadata matters. How can we make it scalable?
 		- How can we let people annotate anything and everything - and then share it?
+	- How can I generate flexible meal plans based off several parameters (macro/micro-nutrients, price, cooking duration, difficulty level, hunger level, available ingredients...)?
+	- How can we create mediums that is infinitely fractal and continuous, where you can create explanations at any level of detail you want (similar to how you see). This would let you see the dependency trees of concepts, or smoothly zoom in and out in terms of detail while reading a book?
+	- How can we break down information so that you can easily
 	- [[consumption trails]]
