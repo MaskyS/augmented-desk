@@ -12,7 +12,10 @@
 	- How do we overcome virality?
 		- E.g. lower dimensional ideas spreading faster than nuanced ones, lies vs truth, churn of amateurish resources vs slow accumulation of expert knowledge, polarizing news, etc
 	- How do we learn to see?
-		- I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
+		- I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..Has anybody built a list of useful interpretations of the data our eyes receive? What seemingly mundane details hold the most important secrets? As [[Douglas R. Hofstadter]] said, “This idea that there is generality in the specific is of far-reaching importance.”
+			- For example, what does the color of a house, or the brand of a car say about a person? How are the trees in an area and relative wealth correlated? Admittedly these are weak examples, but I’m sure there are more
+				- In pop culture, this is often referred to [[deductionism]]— Sherlock-like skills of observation. - Two popular gathering spots online for enthusiasts is r/deduction and r/scienceofdeduction, but I haven’t really found much here.
+		-
 		- [[Related to]]
 			- [[Book/Ways of Seeing]]
 				- {{youtube https://www.youtube.com/watch?v=0pDE4VX_9Kk}}
