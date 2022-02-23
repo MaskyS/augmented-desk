@@ -45,5 +45,5 @@
 		- This would let you see the dependency trees of concepts, or smoothly zoom in and out in terms of detail while reading/studying..
 	- Experience produces abstraction- this means that math notation makes it easier for experts to collaborate/communicate, but they make it harder for beginners to absorb mental models. How can we change this?
 		- See [[Bret Victor/Kill Math]]
-	- How can we facilitate dialectical synthesis? How can we make it easy to judge information on the internet according to our own metrics/epistemic theories of truth?
+	- How can we facilitate ? How can we make it easy to judge information on the internet according to our own metrics/epistemic theories of truth?
 	- [[consumption trails]]
