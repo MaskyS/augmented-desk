@@ -8,7 +8,7 @@
 	- Civilization: Instititutions, Knowledge and the Future [[Samo Burja]]
 		- {{youtube https://www.youtube.com/watch?v=OiNmTVThNEY}}
 	- {{tweet https://twitter.com/danwwang/status/1484152159067426819?s=20}}
-- Questions
+- Questions #
 	- How do we overcome virality?
 		- E.g. lower dimensional ideas spreading faster than nuanced ones, lies vs truth, churn of amateurish resources vs slow accumulation of expert knowledge, polarizing news, etc
 	- How do we learn to see? I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
@@ -16,6 +16,8 @@
 		- [[Related to]]
 			-
 	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
+	- What pieces of knowledge or subjects do you know that are the most compoundable?
+		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge? You could say I’m looking for [the ultimate prototypes](), with the most versatile properties.
 		-
 	- How can we make explorable explanations scalable?
 	- How can we prevent information overload?
