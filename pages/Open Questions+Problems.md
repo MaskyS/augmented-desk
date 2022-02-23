@@ -20,7 +20,7 @@
 				- [[Book/The Full Facts Book of Cold Reading]]
 			-
 	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
-		-
+		- {{tweet https://twitter.com/yoshikischmitz/status/1286801612053213184}}
 	- What pieces of knowledge or subjects do you know that are the most compoundable?
 		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge?
 			- [[Related to]]
