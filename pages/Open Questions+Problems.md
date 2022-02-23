@@ -17,9 +17,9 @@
 			-
 	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
 	- What pieces of knowledge or subjects do you know that are the most compoundable?
-		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge? You could say I’m looking for [the ultimate prototypes](), with the most versatile properties.
+		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge? You could say I’m looking for [the ultimate prototypes]([[Steve Yegge]]), with the most versatile properties.
 		-
-	- How can we make explorable explanations scalable?
+	- How can we make [[explorable explanations]] scalable?
 	- How can we prevent information overload?
 	- How can we create an emergent internet?
 	- How can we effectively leverage the wisdom of the crowds?

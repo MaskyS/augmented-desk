@@ -16,7 +16,7 @@
 		- https://numinous.productions/ttft/
 	- [[Book/Augmenting the Human Intellect]]
 		- by [[Doug Engelbart]]
-	- [[Article/The Universal Design Pattern]]
+	- [[Article/The Universal Design Pattern]] #[[Prototypical Inheritance]]
 		- by [[Steve Yegge]]
 		- https://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html
 	- [[Book/Trees, Maps, and Theorems]]
