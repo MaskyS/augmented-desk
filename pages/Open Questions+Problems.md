@@ -11,19 +11,19 @@
 - Questions #[[Feynman Algorithm]]
 	- How do we overcome virality?
 		- E.g. lower dimensional ideas spreading faster than nuanced ones, lies vs truth, churn of amateurish resources vs slow accumulation of expert knowledge, polarizing news, etc
-	- How do we learn to see? I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
+	- How do we learn to see?
+		- I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
 		- [[Related to]]
 			- [[Book/Ways of Seeing]]
+				- {{youtube https://www.youtube.com/watch?v=0pDE4VX_9Kk}}
 			- [[cold reading]]
 				- [[Book/The Full Facts Book of Cold Reading]]
-			-
 	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
 	- What pieces of knowledge or subjects do you know that are the most compoundable?
 		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge?
 			- [[Related to]]
 				- You could say I’m looking for [the ultimate prototypes]([[Steve Yegge]]), with the most versatile properties.
 				- [[Article/Idea Hooks]] https://szymonkaliski.com/notes/idea-hooks/
-		-
 	- How can we make [[explorable explanations]] scalable?
 	- How can we prevent information overload?
 	- How can we create an emergent internet?
