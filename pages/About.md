@@ -2,6 +2,6 @@
 	- Hi, I'm Kifah. I'm researching the intersection of [[complex systems]] and [[Tools for Thought]]. I believe they will help with most of [our most pressing problems]([[Open Questions+Problems]]).
 - About these notes
 	- My aim here is to make this a public place I can actually think.
-		- I'm not optimizing for legibility, because the last time I tried that, it made my notes inflexible.
+		- I'm not optimizing for legibility-- the last time I tried that,
 			- And I found that I was less motivated to write about what I already knew than digging deeper.
 - See the sidebar for some entry points.
