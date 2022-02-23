@@ -8,7 +8,7 @@
 	- Civilization: Instititutions, Knowledge and the Future [[Samo Burja]]
 		- {{youtube https://www.youtube.com/watch?v=OiNmTVThNEY}}
 	- {{tweet https://twitter.com/danwwang/status/1484152159067426819?s=20}}
-- Questions
+- Questions #[[Feynman Algorithm]]
 	- How do we overcome virality?
 		- E.g. lower dimensional ideas spreading faster than nuanced ones, lies vs truth, churn of amateurish resources vs slow accumulation of expert knowledge, polarizing news, etc
 	- How do we learn to see? I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
@@ -19,7 +19,10 @@
 			-
 	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
 	- What pieces of knowledge or subjects do you know that are the most compoundable?
-		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge? You could say I’m looking for [the ultimate prototypes]([[Steve Yegge]]), with the most versatile properties.
+		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge?
+			- [[Related to]]
+				- You could say I’m looking for [the ultimate prototypes]([[Steve Yegge]]), with the most versatile properties.
+				- [[Article/Idea Hooks]] https://szymonkaliski.com/notes/idea-hooks/
 		-
 	- How can we make [[explorable explanations]] scalable?
 	- How can we prevent information overload?
@@ -41,5 +44,4 @@
 	- Experience produces abstraction- this means that math notation makes it easier for experts to collaborate/communicate, but they make it harder for beginners to absorb mental models. How can we change this?
 		- See [[Bret Victor/Kill Math]]
 	- How can we facilitate dialectical synthesis? How can we make it easy to judge information on the internet according to our own metrics/epistemic theories of truth?
-	- How can we break down information so that you can easily
 	- [[consumption trails]]
