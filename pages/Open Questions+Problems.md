@@ -25,6 +25,7 @@
 				- You could say I’m looking for [the ultimate prototypes]([[Steve Yegge]]), with the most versatile properties.
 				- [[Article/Idea Hooks]] https://szymonkaliski.com/notes/idea-hooks/
 	- How can we make [[explorable explanations]] scalable?
+		- {{tweet https://twitter.com/sliminality/status/1495527059011289090}}
 	- How can we prevent information overload?
 	- How can we create an emergent internet?
 	- How can we effectively leverage the wisdom of the crowds?
