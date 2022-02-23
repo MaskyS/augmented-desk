@@ -26,6 +26,7 @@
 			- [[Related to]]
 				- You could say I’m looking for [the ultimate prototypes]([[Steve Yegge]]), with the most versatile properties.
 				- [[Article/Idea Hooks]] https://szymonkaliski.com/notes/idea-hooks/
+		-
 	- How can we make [[explorable explanations]] scalable?
 		- {{tweet https://twitter.com/sliminality/status/1495527059011289090}}
 			- {{tweet https://twitter.com/sliminality/status/1495528471631515649?s=20&t=KydZHfe4WJLfGQjCvKQ2bA}}
