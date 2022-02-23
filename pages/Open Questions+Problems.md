@@ -23,8 +23,9 @@
 			- [[cold reading]]
 				- [[Book/The Full Facts Book of Cold Reading]]
 			-
-	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
-		- {{tweet https://twitter.com/yoshikischmitz/status/1286801612053213184}}
+	- What do we need to create general-purpose [[multi-scale modeling]]?
+		- How can you simultaneously see effects at the microscopic and macroscopic level?
+			- {{tweet https://twitter.com/yoshikischmitz/status/1286801612053213184}}
 	- What pieces of knowledge or subjects do you know that are the most compoundable?
 		- What are the things that are the most ‘hookable’? That easily associate with a variety of new knowledge?
 			- [[Related to]]
@@ -45,7 +46,7 @@
 		- [[Andy Matuschak/Knowledge work rarely involves deliberate practice]] [🔗](https://notes.andymatuschak.org/z5BMvN7tZr8wxZdfFHgjvV9Em5HzXPCboardR)
 	- What does the intersection of browsers and game engines look like?
 	- What are some principles for creating [[scale-free]] [[UI]]?
-	- Metadata matters. How can we make it scalable?
+	- [[metadata matters]]. How can we make it scalable?
 		- How can we let people annotate anything and everything - and then share it?
 	- How can I generate flexible meal plans based off several parameters (macro/micro-nutrients, price, cooking duration, difficulty level, hunger level, available ingredients...)?
 	- How can we create mediums that is infinitely fractal and continuous, where you can create explanations at any level of detail you want (similar to how you see).
