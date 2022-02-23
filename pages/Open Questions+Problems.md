@@ -14,6 +14,8 @@
 	- How do we learn to see? I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
 		- See, for instance,
 		- [[Related to]]
+			- [[cold reading]]
+				- [[Book/The Full Facts Book of Cold Reading]]
 			-
 	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
 	- What pieces of knowledge or subjects do you know that are the most compoundable?
