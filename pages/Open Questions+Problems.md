@@ -29,6 +29,7 @@
 			- {{tweet https://twitter.com/sliminality/status/1495528471631515649?s=20&t=KydZHfe4WJLfGQjCvKQ2bA}}
 	- How can we prevent information overload?
 	- How can we create an emergent internet?
+	- What does [[Git]] for ideas look like?
 	- How can we effectively leverage the wisdom of the crowds?
 	- What do good user interfaces look like for creating your own feeds/curation engines?
 	- Before punctuation was invented, we wrote words inalongstreamofletters. What's the 21st century equivalent of punctuation?

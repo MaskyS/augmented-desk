@@ -1,0 +1,2 @@
+- > Hegelian dialectic, usually presented in a threefold manner, was stated by [[Heinrich Moritz Chalybäus]] as comprising three dialectical stages of development: a thesis, giving rise to its reaction; an antithesis, which contradicts or negates the thesis; and the tension between the two being resolved by means of a synthesis.
+	- [Source](https://en.wikipedia.org/wiki/Dialectic)
