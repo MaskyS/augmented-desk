@@ -12,7 +12,9 @@
 	- How do we overcome virality?
 		- E.g. lower dimensional ideas spreading faster than nuanced ones, lies vs truth, churn of amateurish resources vs slow accumulation of expert knowledge, polarizing news, etc
 	- How do we learn to see? I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
-		- Related
+		- See, for instance,
+		- [[Related to]]
+			-
 	- What do we need to create general-purpose [[multi-scale modeling]]? How can you simultaneously see effects at the microscopic and macroscopic level?
 		-
 	- How can we make explorable explanations scalable?
