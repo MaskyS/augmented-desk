@@ -8,12 +8,12 @@
 	- Civilization: Instititutions, Knowledge and the Future [[Samo Burja]]
 		- {{youtube https://www.youtube.com/watch?v=OiNmTVThNEY}}
 	- {{tweet https://twitter.com/danwwang/status/1484152159067426819?s=20}}
-- Questions #
+- Questions
 	- How do we overcome virality?
 		- E.g. lower dimensional ideas spreading faster than nuanced ones, lies vs truth, churn of amateurish resources vs slow accumulation of expert knowledge, polarizing news, etc
 	- How do we learn to see? I believe visual thinking is a skill that can be trained. Maybe not Sherlock-level deductionism, but somewhere in between..
-		- See, for instance,
 		- [[Related to]]
+			- [[Book/Ways of Seeing]]
 			- [[cold reading]]
 				- [[Book/The Full Facts Book of Cold Reading]]
 			-
